@@ -18,4 +18,4 @@ GPT-3, introduced in June 2020, marked another substantial increase in scale wit
 
 We can expect future models in the GPT series to continue pushing the boundaries of AI capabilities. They may have even more parameters and an extraordinary ability to understand and generate text. For the most accurate and up-to-date information, please refer to the latest [documentation from OpenAI](https://platform.openai.com/docs/guides/gpt).
 
-Remember, while these models have incredible capabilities, they also have limitations and ethical considerations. As we continue to explore these powerful tools, let's do so with a focus on responsible and beneficial use.&#x20;
+Remember, while these models have incredible capabilities, they also have limitations and ethical considerations. As we continue to explore these powerful tools, let's do so with a focus on responsible and beneficial use.
